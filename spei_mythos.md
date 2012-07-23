@@ -1,4 +1,4 @@
-tags: horror, fantasy
+tags: post-apoc, horror, fantasy
 date: June, 2008
 
 # Spei Mythos

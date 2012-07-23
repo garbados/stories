@@ -1,7 +1,6 @@
 tags: post-apoc, young adult
 date: February, 2011
-
-# Born at Dusk
+title: Born at Dusk
 
 My name is Feralice. My mom named me so because Alice was a name from before the world ended, but everything is so feral now, she called me Feralice. She thinks it's clever, but it doesn't make her smile.
 

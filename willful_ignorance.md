@@ -1,7 +1,6 @@
 tags: horror, lovecraft
 date: October, 2011
-
-# Willful Ignorance
+title: Willful Ignorance
 
 “Ah, Lovecraft,” the suit sitting next to me on the bus remarked, pointing at my book. “I love his stuff.”
 

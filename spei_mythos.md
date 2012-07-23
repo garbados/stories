@@ -1,7 +1,6 @@
 tags: post-apoc, horror, fantasy
 date: June, 2008
-
-# Spei Mythos
+title: Spei Mythos
 
 The sun dips low these days. It never quite sets, just rising into the sky in the morning and afternoon, burning in defiance against the bleak red sky around it. As the day presses on, and the shadows grow longer, the darkness ever deeper, eventually the night arrives to drive out the weakening Helios, its brilliant flames waning gently, as if by a token of dusk's mercy. The sun does not set; it simply disappears.
 

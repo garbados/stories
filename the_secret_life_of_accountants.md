@@ -1,7 +1,6 @@
 tags: humor, fantasy, modern, accounting
 date: January, 2011
-
-# The Secret Life of Accountants
+title: The Secret Life of Accountants
 
 Welcome, Initiate.
 

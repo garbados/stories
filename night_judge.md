@@ -1,7 +1,6 @@
 tags: horror, inspired by creepypasta
 date: October, 2010
-
-# Night Judge
+title: Night Judge
 
 Sometimes you see her. You know she is not there.
 

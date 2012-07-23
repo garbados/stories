@@ -1,7 +1,6 @@
 tags: horror, fantasy
 date: February, 2011
-
-# Death, Coffin-Maker
+title: Death, Coffin-Maker
 
 *Pound, pound, pound in the nails. What are you building, craftsman? Coffins, sirrah. I am Death, the Coffin-Maker. Do you need a coffin? No, no. I don’t see an order for you yet. Pound, pound, pound; someone’s always got an order in, but not yet for you, no. Whose coffin is this, Death? Jeremiah Macalaster. Killed by a knife in the night. His brother sent me the order. Something about stealing a woman. I imagine someone will soon be sending me an order for him too. Pound, pound, pound; someone’s always got an order. Someone always needs a coffin.*
 

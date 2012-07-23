@@ -1,7 +1,6 @@
 tags: poetry, transhumanism, this poem looks like a skyline
 date: January, 2010
-
-# Indomitable
+title: Indomitable
 
 We are three-dimensional beings,
 

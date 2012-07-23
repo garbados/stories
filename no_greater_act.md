@@ -1,7 +1,6 @@
 tags: post-apoc
 date: January, 2009
-
-# No Greater Act
+title: No Greater Act
 
 When the world ends, I want it to be slow.
 

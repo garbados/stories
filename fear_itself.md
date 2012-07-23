@@ -1,7 +1,6 @@
 tags: horror, unfinished
 date: March, 2009
-
-# Fear Itself
+title: Fear Itself
 
 Weariness.
 

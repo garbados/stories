@@ -1,7 +1,6 @@
 tags: horror, fantasy, diplomacy, lovecraft
 date: June, 2009
-
-# Black Dog Bark
+title: Black Dog Bark
 
 ## Written to accompany a game of Diplomacy: 1898
 

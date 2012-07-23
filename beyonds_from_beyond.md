@@ -1,7 +1,6 @@
 tags: fantasy, ex deus
 date: October, 2009
-
-# Beings from Beyond
+title: Beings from Beyond
 
 ## An excerpt from world of *Ex Deus*
 

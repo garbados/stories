@@ -1,7 +1,6 @@
 tags: sci-fi, rights
 date: May, 2011
-
-# Interview with a Genejack
+title: Interview with a Genejack
 
 Jack. Genejack, I am called. I work in the borehole mines, where the earth's crust gives way to mantle. It is very hot there; I sweat much.
 

@@ -1,8 +1,7 @@
 tags: fantasy, ex deus
 date: October, 2009
 title: Beings from Beyond
-
-## An excerpt from world of *Ex Deus*
+summary: An excerpt from world of "Ex Deus"
 
 Abyssals. The barkeep's lips draw tight and a patron grows a sneer as the three tall things enter, faces like glass mosaics, eyes hidden like black pearls beneath the crystal shards. Their hooves ring distinct amongst the pub's clatter and din, many a man and maid stopping their chatter at their entrance. Whether those who yet spoke are fools or sages remained to be seen.
 

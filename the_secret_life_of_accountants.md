@@ -1,6 +1,7 @@
 tags: humor, fantasy, modern, accounting
 date: January, 2011
 title: The Secret Life of Accountants
+summary: There is power in ledgers, more than you will ever know.
 
 Welcome, Initiate.
 

@@ -1,6 +1,7 @@
 tags: horror, inspired by creepypasta
 date: October, 2010
 title: Night Judge
+summary: Watching shadows in the dark, you find them... watching you.
 
 Sometimes you see her. You know she is not there.
 

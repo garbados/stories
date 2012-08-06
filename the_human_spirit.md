@@ -1,6 +1,7 @@
 tags: sci-fi, transhumanism
 date: July, 2012
 title: The Human Spirit
+summary: Even when the human species falls, the human spirit will go on.
 
 An automaton watches me work on my garden in silence. The machine makes no expression as I prune plants and water the soil, but it comes here often to do just this: watch. I imagine that it must be thinking how inefficient my garden is, and how unhealthy my plants are compared to those tended by machines built for tending. I have asked it what it thinks on many occasions, but it makes no reply. Today, it asks, “Fong, why do you garden?”
 

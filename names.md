@@ -1,6 +1,7 @@
 tags: romance, modern
 date: January, 2009
 title: Names
+summary: Exploring the pain of connection through the comfort of strangers.
 
 A girl took my portrait on the bus today. I couldn't fathom how she managed to draw, but her pencil scratched over her little canvas, and by all indication she seemed pleased with her creation as she lifted it into life, stroke by stroke. She hadn't asked, but I was too flattered to be bothered. We shared glances as she measured me onto her canvas, but they were awkward, accidental things. She would look, I would see, and she'd pretend to look out the window behind me. I would measure her the same, she would catch me, and I'd do my best to fake looking at the ceiling. It was an odd little rapport.
 

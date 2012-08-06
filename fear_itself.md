@@ -1,6 +1,7 @@
 tags: horror, unfinished
 date: March, 2009
 title: Fear Itself
+summary: A weary investigator and a spry thief hunt an otherworldly killer.
 
 Weariness.
 

@@ -1,6 +1,7 @@
 tags: horror, modern
 date: December, 2008
 title: Myleton Motor Inn
+summary: A fear-monger feasts.
 
 Montag didn't like this place. The shabby motel, “The Myleton Motor Inn” - he didn't like it at all. But Cherry had loved the strange little inn. A mile from the highway, surrounded by forest, itself a strange, dilapidated thing as if plucked from the inner-city. Montag figured it was probably constructed solely for prostitutes. He didn't like the one car sitting in the lot, the room in front of it full of flickering lights like figures darting back and forth. He didn't like how the car's driver was sitting so still.
 

@@ -1,6 +1,7 @@
 tags: poetry, transhumanism, this poem looks like a skyline
 date: January, 2010
 title: Indomitable
+summary: A meditation on the human spirit.
 
 We are three-dimensional beings,
 

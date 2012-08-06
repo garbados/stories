@@ -1,6 +1,7 @@
 tags: sci-fi, rights
 date: May, 2011
 title: Interview with a Genejack
+summary: A genejack, or human engineered for otherwise backbreaking labor, discusses his existence.
 
 Jack. Genejack, I am called. I work in the borehole mines, where the earth's crust gives way to mantle. It is very hot there; I sweat much.
 

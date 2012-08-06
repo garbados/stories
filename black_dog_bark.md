@@ -1,8 +1,7 @@
 tags: horror, fantasy, diplomacy, lovecraft
 date: June, 2009
 title: Black Dog Bark
-
-## Written to accompany a game of Diplomacy: 1898
+summary: Jealous gods return in war and strife. Written to accompany a game of "Diplomacy: 1898"
 
 ### Spring 1898
 

@@ -1,6 +1,7 @@
 tags: horror, lovecraft
 date: October, 2011
 title: Willful Ignorance
+summary: Encounters with the incomprehensible.
 
 “Ah, Lovecraft,” the suit sitting next to me on the bus remarked, pointing at my book. “I love his stuff.”
 

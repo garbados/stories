@@ -1,6 +1,7 @@
 tags: fantasy, chimera
 date: February, 2008
 title: Chimera
+summary: Four half-animal brothers search for their parents. Basis for a GURPS campaign I ran.
 
 Trumpets and standards welcomed them through the heavy doors, dripping in ornate carvings and steel braces, into a hall lavish in furs and expensive stained glass, braziers warming the approach to the Count's throne, where sat a man noble and aged looking upon something he never thought to see praised as anything but monstrous: four chimera. Warlock's abominations! -- but now was no time for tradition, and so he stood for his guests.
 

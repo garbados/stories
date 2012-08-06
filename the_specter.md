@@ -1,6 +1,7 @@
 tags: horror, television
 date: June, 2012
 title: The Specter
+summary: A fear-monger enjoys his favorite show.
 
 I stay up late watching Fear Factoid. Contestants sit, strapped to a chair, answering trivia while terror-inducing neurochemicals are pumped into the room. The longer it takes them to complete the battery of questions, the more horrified they become. They can bow out any time, but the million dollar prize keeps them in.
 

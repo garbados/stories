@@ -1,5 +1,9 @@
 language: node_js
 sudo: false
+cache:
+  directories:
+    - node_modules
+    - bower_components
 node_js:
 - iojs
 after_success:

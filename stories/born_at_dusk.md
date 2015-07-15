@@ -19,7 +19,7 @@ She says everybody freaked out and started killing each other, but then the pigs
 
 But Mom didn't get it, and I didn't get it, so we're still here. And there's other people who visit sometimes and trade with us, so they didn't get it either.
 
-Mom and I go to the city sometimes and collect things for the traders, and sometimes one of them stays with us for a few days named James, who’s a grown-up like mom,  and Pheonix, who's a few years older than me.
+Mom and I go to the city sometimes and collect things for the traders, and sometimes one of them stays with us for a few days named James, who’s a grown-up like mom, and Pheonix, who's a few years older than me.
 
 Pheonix and I go hunting when James and Mom want to be alone, or we play explorer if we've already got enough food. We imagine we're finding the world all over again.
 

@@ -6,7 +6,8 @@
   "scripts": {
     "postinstall": "bower install",
     "test": "jshint app/js/app.js",
-    "build": "mkdir build; mkdir build/stories; browserify app/js/app.js -o build/app.js && node-sass app/css/style.scss --include-path bower_components -o build && cp app/html/* build && cp stories/* build/stories"
+    "build": "mkdir build; mkdir build/stories; browserify app/js/app.js -o build/app.js && node-sass app/css/style.scss --include-path bower_components -o build && cp app/html/* build && cp stories/* build/stories",
+    "deploy": "./bin/deploy"
   },
   "repository": {
     "type": "git",

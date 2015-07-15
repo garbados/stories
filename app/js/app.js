@@ -42,21 +42,32 @@ require('angular').module('app', [
 ])
 // factories
 .factory('parseStory', [
-  'yaml', 'md',
-  function (yaml, md) {
-    return function (data) {
-      // TODO parse body into object using yaml and md
-      console.log(arguments);
-      return data;
+  'yaml', 'md', '$sce',
+  function (yaml, md, $sce) {
+    return function (res) {
+      console.log(res);
+      var end_of_metadata = res.data.indexOf('\n\n');
+      var metadata = yaml.safeLoad(res.data.slice(0, end_of_metadata));
+      var text = md(res.data.slice(end_of_metadata + 2));
+      var story_id_prefix = 'stories/';
+      var story_id_index = res.config.url.indexOf(story_id_prefix);
+      var story_id = res.config.url.slice(story_id_index + story_id_prefix.length);
+      return {
+        title: metadata.title,
+        date: metadata.date,
+        summary: metadata.summary,
+        text: $sce.trustAsHtml(text),
+        id: story_id
+      };
     };
   }
 ])
 .factory('getStory', [
   'parseStory', '$http',
-  function ($http, stories) {
+  function (parseStory, $http, stories) {
     return function (story) {
-      var story_url = ['/stories', story].join('/');
-      return $http(story_url).then(parseStory);
+      var story_url = ['stories', story].join('/');
+      return $http.get(story_url).then(parseStory);
     };
   }
 ])
@@ -80,6 +91,8 @@ require('angular').module('app', [
     function (getStory, $routeParams, $scope) {
       getStory($routeParams.id).then(function (res) {
         $scope.story = res;
+        $scope.story.expand = true;
+        $scope.story.hide_buttons = true;
       });
     }
 ]);

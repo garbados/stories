@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- '0.11'
+- '0.10'
+after_success:
+- npm run deploy
+env:
+  global:
+    GH_REF: github.com/garbados/chaiseblog.git
+    secure: r8Nw9bewxepl3p/lnhu7BLBybuPQqK2u3/s7Kc1oMO3c9s5eXTpc1Ie6Jq3DuExsmcWnprbm0vBvgubsZ7G5zdRbqJiGwGdvPkRV6TMk/lHsNh8BAqonufUauGQWBBC/ykYqqB4UbTc7rm1i0NHKDIoZbE+2VAD5Z6cRykbMt0o=

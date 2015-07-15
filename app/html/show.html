@@ -1,8 +1,12 @@
-<div class="col-xs-3">
-	<p>{{ story.date }}</p>
-</div>
-<div class="col-xs-9">
-	<h3>{{ story.title }}</h3>
-	<p>{{ story.summary }}</p>
-	<div ng-bind-html="story.text"></div>
+<div class="col-xs-12">
+	<div class="page-header">
+		<h3>{{ story.title }} <small>{{ story.date }}</small></h3>
+		<p>{{ story.summary }}</p>
+		<div ng-hide="story.hide_buttons">
+			<button class="btn btn-link" ng-click="story.expand = true" ng-hide="story.expand">Read</button>
+			<button class="btn btn-link" ng-click="story.expand = false" ng-show="story.expand">Close</button>
+			<a href="#/story/{{ story.id }}" class="btn btn-link">Link</a>
+		</div>
+	</div>
+	<div ng-show="story.expand" ng-bind-html="story.text" class="jumbotron"></div>
 </div>

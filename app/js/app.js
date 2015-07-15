@@ -17,7 +17,7 @@ require('angular').module('app', [
   }
 ])
 // constants
-.constant('yaml', require('js-yaml))
+.constant('yaml', require('js-yaml'))
 .constant('md', require('marked'))
 .constant('stories', [
     'beings_from_beyond.md',

@@ -40,21 +40,38 @@ require('angular').module('app', [
     'the_specter.md',
     'willful_ignorance.md'
 ])
+.constant('months', [
+  "January", 
+  "February", 
+  "March", 
+  "April", 
+  "May", 
+  "June",
+  "July", 
+  "August", 
+  "September", 
+  "October", 
+  "November", 
+  "December"
+])
 // factories
 .factory('parseStory', [
-  'yaml', 'md', '$sce',
-  function (yaml, md, $sce) {
+  'yaml', 'md', '$sce', 'months',
+  function (yaml, md, $sce, months) {
     return function (res) {
       console.log(res);
       var end_of_metadata = res.data.indexOf('\n\n');
       var metadata = yaml.safeLoad(res.data.slice(0, end_of_metadata));
+      var story_date = metadata.date.split(', ');
+      story_date = new Date(story_date[1], months.indexOf(story_date[0]));
       var text = md(res.data.slice(end_of_metadata + 2));
       var story_id_prefix = 'stories/';
       var story_id_index = res.config.url.indexOf(story_id_prefix);
       var story_id = res.config.url.slice(story_id_index + story_id_prefix.length);
       return {
         title: metadata.title,
-        date: metadata.date,
+        date_string: metadata.date,
+	date: story_date,
         summary: metadata.summary,
         text: $sce.trustAsHtml(text),
         id: story_id

@@ -1,6 +1,6 @@
 <div class="col-xs-12">
 	<div class="page-header">
-		<h3>{{ story.title }} <small>{{ story.date }}</small></h3>
+		<h3>{{ story.title }} <small>{{ story.date_string }}</small></h3>
 		<p>{{ story.summary }}</p>
 		<div ng-hide="story.hide_buttons">
 			<button class="btn btn-link" ng-click="story.expand = true" ng-hide="story.expand">Read</button>

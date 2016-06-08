@@ -1,4 +1,11 @@
-# Stories from 2008-2012
+# Stories
 
-I write stories but I stopped for a few years while I grew boobs and stuff. This repo contains stories written during and between 2008 and 2012. It exposes them as an online anthology [here](http://garbados.github.io/stories/#/). Enjoy!
+I write poorly but I like to archive things. This project is a static site for doing so.
 
+## Install
+
+It's a static site. Stick where appropriate.
+
+## License
+
+Fuck you, pay me

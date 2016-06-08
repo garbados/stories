@@ -1,24 +1,24 @@
-require('angular').module('app', [
-  require('angular-route')  
+angular.module('app', [
+  'ngRoute'
 ])
 // URL router
 .config([
   '$routeProvider',
   function ($routeProvider) {
     $routeProvider.when('/', {
-      templateUrl: 'list.html',
+      templateUrl: 'templates/list.html',
       controller: 'ListCtrl'
     });
 
     $routeProvider.when('/story/:id', {
-      templateUrl: 'show.html',
+      templateUrl: 'templates/show.html',
       controller: 'ShowCtrl'
     });
   }
 ])
 // constants
-.constant('yaml', require('js-yaml'))
-.constant('md', require('marked'))
+.constant('yaml', jsyaml)
+.constant('md', marked)
 .constant('stories', [
     'beings_from_beyond.md',
     'black_dog_bark.md',
@@ -28,10 +28,12 @@ require('angular').module('app', [
     'fear_itself.md',
     'indomitable.md',
     'interview_with_a_genejack.md',
+    'let_me_in.md',
     'myleton_motor_inn.md',
     'names.md',
     'night_judge.md',
     'no_greater_act.md',
+    'robot_capitalism.md',
     'self_defense.md',
     'spei_mythos.md',
     'the_buddha_of_accounting.md',
@@ -41,17 +43,17 @@ require('angular').module('app', [
     'willful_ignorance.md'
 ])
 .constant('months', [
-  "January", 
-  "February", 
-  "March", 
-  "April", 
-  "May", 
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
   "June",
-  "July", 
-  "August", 
-  "September", 
-  "October", 
-  "November", 
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
   "December"
 ])
 // factories
@@ -59,7 +61,6 @@ require('angular').module('app', [
   'yaml', 'md', '$sce', 'months',
   function (yaml, md, $sce, months) {
     return function (res) {
-      console.log(res);
       var end_of_metadata = res.data.indexOf('\n\n');
       var metadata = yaml.safeLoad(res.data.slice(0, end_of_metadata));
       var story_date = metadata.date.split(', ');
@@ -71,7 +72,7 @@ require('angular').module('app', [
       return {
         title: metadata.title,
         date_string: metadata.date,
-	date: story_date,
+      	date: story_date,
         summary: metadata.summary,
         text: $sce.trustAsHtml(text),
         id: story_id

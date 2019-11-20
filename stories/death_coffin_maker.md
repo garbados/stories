@@ -11,7 +11,7 @@ He builds Jeremiah's coffin and brings it to the village for his funeral, but wh
 
 “This is unacceptable,” Death grumbles. “There can't be a coffin without a body.”
 
-He goes off in search of the it. He talks to the townsfolk, hunts every home, and can't find it. But he does find Jeremiah's widow. She's in mourning, of course. She can hardly muster words without issuing tears, but Death sees fire behind the sadness. Determination.
+He goes off in search of it. He talks to the townsfolk, hunts every home, and can't find it. But he does find Jeremiah's widow. She's in mourning, of course. She can hardly muster words without issuing tears, but Death sees fire behind the sadness. Determination.
 
 "You're hiding the body," he says, "Where is he?"
 
